@@ -24,7 +24,7 @@ Developed by: MahaJanani.R
 RegisterNumber:  212224230147
 */
 ```
-```PY
+```
 import numpy as np
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
